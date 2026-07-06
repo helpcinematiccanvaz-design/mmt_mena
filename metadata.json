@@ -1,8 +1,0 @@
-{
-  "name": "Remix: MMT MENA",
-  "description": "Premium large-format printing and outdoor media production company serving the GCC \u0026 MENA regions since 1987.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
